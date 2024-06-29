@@ -161,7 +161,7 @@
 - [Exam Review Guide](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification)
 - [Sample Questions](https://learn.hashicorp.com/tutorials/terraform/associate-questions?in=terraform/certification)
 
-
+## MY COMMENT: VERY POWERFUL
 
 
 
